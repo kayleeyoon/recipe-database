@@ -1,7 +1,7 @@
 Kaylee Yoon
 4/24/18
 
-- My public_html folder has all of the files for the web interface
+- The public_html folder has all of the files for the web interface for a simple recipe database
 	-home.php is the home page
 	-newChef.php is how a user can insert a new chef
 	-newReview.php, newReview2.php, and newReview3.php are how a user inserts a new review
